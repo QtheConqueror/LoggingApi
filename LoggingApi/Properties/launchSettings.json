@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LoggingApi": {
+      "commandName": "Project"
+    },
+    "Debug": {
+      "commandName": "Executable",
+      "executablePath": "E:\\SteamLibrary\\steamapps\\common\\Lethal Company\\Lethal Company.exe",
+      "commandLineArgs": "--doorstop-enable true --doorstop-target \"%APPDATA%\\r2modmanPlus-local\\LethalCompany\\profiles\\Debug\\BepInEx\\core\\BepInEx.Preloader.dll\""
+    }
+  }
+}
