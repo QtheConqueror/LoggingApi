@@ -1,7 +1,7 @@
 ﻿namespace LoggingApi
 {
     /// <summary>
-    /// Flags to filter which type memebers are included in a search.
+    /// Flags to filter which type members are included in a search.
     /// </summary>
     public enum SearchFlags
     {
