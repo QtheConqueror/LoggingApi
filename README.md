@@ -2,7 +2,7 @@
 ### Please report any issues [here]()
 
 ## Overview
-Offers simple methods for adding debug logs to method calls. Also provides a variety of log formatting option to users.
+Offers simple methods for adding debug logs to method calls. Also provides a variety of log formatting options to users.
 
 ## Game Installation
 Drag the `LoggingApi.dll` to your `BepInEx/plugins` folder, or just install the mod via a Thunderstore mod loader.
