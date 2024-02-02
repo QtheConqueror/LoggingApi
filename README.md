@@ -17,10 +17,10 @@ Drag the `LoggingApi.dll` to your `BepInEx/plugins` folder, or just install the 
 
 ## Features
 ### Source of log messages
-![Call Trace](./images/log-sources.png)
+![log-sources.png](./images/log-sources.png)
 ### Call trace when viewing debug logs
-![Call Trace](./images/call-trace.png)
-> *Images were taken in VSCode/Codium with the [FiraCode](https://github.com/tonsky/FiraCode) font*
+![call-trace.png](./images/call-trace.png)
+> *Images were taken in [VSCode](https://code.visualstudio.com)/[Codium](https://vscodium.com/) with the [FiraCode](https://github.com/tonsky/FiraCode) font*
 
 ## Development Usage
 Add the following to your project's `.csproj` file, replacing `[FILEPATH]` with the path to the `LoggingApi.dll`
