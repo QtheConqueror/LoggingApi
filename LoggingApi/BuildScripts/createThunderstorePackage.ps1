@@ -10,7 +10,7 @@ $manifest = @{
 $manifest | ConvertTo-Json | Out-File "$OutDir\manifest.json"
 
 $compress = @{
-    Path = "..\icon.png", "..\README.md", "..\CHANGELOG.md", "$OutDir\manifest.json"
+    Path = "..\icon.png", "..\README.md", "..\CHANGELOG.md", "$OutDir\manifest.json", "..\images"
     CompressionLevel = "Optimal"
     DestinationPath = "$OutDir\$TargetName.zip"
 }
