@@ -5,7 +5,7 @@
     <AssemblyName>qtheconqueror.loggingapi</AssemblyName>
     <Product>LoggingApi</Product>
     <Description>An API for logging and log formatting</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
